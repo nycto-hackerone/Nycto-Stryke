@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/MDPLLbV.png' />
+
 
 # Nycto-Stryke
 Stryke is an offensive information and vulnerability scanner.
