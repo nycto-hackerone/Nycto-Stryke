@@ -24,17 +24,15 @@ Just supply a domain name to <b>Nycto-Stryke</b> and it will automatically do th
 
 ## Install
 ```bash
-git clone https://github.com/UltimateHackers/Striker
+git clone https://github.com/nycto-hackerone/Nycto-Stryke
 cd Nycto-Stryke
 pip install -r requirements.txt
 python nyctostryke.py
 ```
 
 ### Screenshots
-<img src='https://i.imgur.com/8nqAD1v.png' />
-<img src='https://i.imgur.com/2IdJwr8.png' />
-<img src='https://dnsdumpster.com/static/map/jnujaipur.ac.in.png' />
-Want to see what else it can do? Try it yourself.
+
+Want to see what else it can do? Try it yourself
 
 #### Contribute
 If you want to contribute to this project, report any bugs you encounter and help me add more features to it.
