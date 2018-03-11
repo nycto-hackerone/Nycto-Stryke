@@ -19,8 +19,9 @@ Just supply a domain name to <b>Nycto-Stryke</b> and it will automatically do th
 - [x] Find websites hosted on the same web server
 - [x] Find hosts using google
 - [x] Crawl the website for URLs having parameters
-- [x] SQLi scan using online implemention of SQLMap (takes < 3 min.)
+- [x] SQLi scan using online implemention of SQLMap (takes like 3 fucking mins XD.)
 - [x] Basic XSS scanning
+- [ ] More To Add Soon I Hope
 
 ## Install
 ```bash
@@ -32,7 +33,7 @@ python nyctostryke.py
 
 ### Screenshots
 
-Want to see what else it can do? Try it yourself
+Has many other things hidden inside see for yourself XD
 
 #### Contribute
 If you want to contribute to this project, report any bugs you encounter and help me add more features to it.
